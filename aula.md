@@ -38,12 +38,14 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor =
 - [x] Operador de concatenação +
 - [x] Operadores de comparação: == != <= >= < >
+- [x] Spread operators: ...
 
 ## Estruturas de dados
 
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dados
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos
 
