@@ -13,7 +13,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, pare re
 - [x] Tipos de dados (string, number, boolean)
 - [x] Estrutura de dados (functions, object, array)
 - [x] Controle de fluxo (if / else)
-- Estrutura de repetição (for, while)
+- [x] Estrutura de repetição (for, while)
 
 # Fases da resolução de um problema
 
@@ -59,3 +59,7 @@ Apresentar os dados
 # Estrutura de repetição
 
 - [x] while
+
+# Condicionais
+
+- [x] switch
